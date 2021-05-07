@@ -37,18 +37,29 @@
 ## Phovis Page Views
 
 - Phovis 메인 화면
+![메인화면](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5f10073-41a7-4d15-a4ac-ea2871a7f44d/.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041412Z&X-Amz-Expires=86400&X-Amz-Signature=0b9b2c7fe6f3521494248508032f56ed82a22211a478cb0fac52e91c8b050607&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22.gif%22)
 
 - Phovis 로그인 / 회원가입 화면
+![회원가입](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/087629ed-4365-4b9f-b953-37fa62c82337/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041113Z&X-Amz-Expires=86400&X-Amz-Signature=f304c5b4b2c51903a7beffef1846d386446ccfe04b0d99bc23d491ce051f79eb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
+![구글로그인](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e1df5fe5-88d8-47e0-8b69-e5e1b1c4b6cd/.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041305Z&X-Amz-Expires=86400&X-Amz-Signature=7323259037d90687b1218db54a969b5e312ec87d94faa077cd8d54e6063d129f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22.gif%22)
 
 - Phovis 출사장소 추천 컨텐츠 작성 플로우
+![컨텐츠작성](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e9920cc-fa73-4a55-9ae7-c1c659ad50e3/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041509Z&X-Amz-Expires=86400&X-Amz-Signature=e83942148cea4d21aad7e11be8a5c3a91c12941d1eac47c79e2b61246653af1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
+
 
 - Phovis 키워드 검색 플로우
 ![키워드 검색](https://images.velog.io/images/seungsang00/post/8a26fbc6-c809-4947-a900-9061f4a61043/phovis-search-keyword.gif)
 ![태그 검색](https://images.velog.io/images/seungsang00/post/2d723c8b-1031-409e-895a-d1e963029f1b/phovis-search-tag.gif)
 
 - Phovis 컨텐츠 화면
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf62e45c-88ae-4154-ab37-135db005dff2/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041801Z&X-Amz-Expires=86400&X-Amz-Signature=35bbd00f00bae3cae6151a0c392b41d4f0e42afab70a3befde2f05608cf34586&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
+![좋아요북마크](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dd8877a-54a8-4302-9de5-2a256e477d04/likebookmark.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041957Z&X-Amz-Expires=86400&X-Amz-Signature=a106eb014e486679a829059fafecf0a6cbfe50e414a2d1e431c74edbe9027408&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22likebookmark.gif%22)
+
+- Phovis 컨텐츠 - 포토카드 작성 및 수정
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16cfb92-7ad4-4ac2-963b-33d047721dc3/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041548Z&X-Amz-Expires=86400&X-Amz-Signature=e6cb5e0f0c312a259d6952d77a645ef3a18e9559a3e594c9de9186ae06686263&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
 
 - Phovis 마이페이지
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a9b1de1-35fb-4e6c-8c70-abb6bd656827/phovis-mypage-1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041917Z&X-Amz-Expires=86400&X-Amz-Signature=015f69830c50129596396307324bb54650873db7ebfa61074f18cfa24a53ac8b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22phovis-mypage-1.gif%22)
 
 - Phovis 회원 정보 수정(프로필 이미지 변경)
 ![프로필 이미지 변경](https://images.velog.io/images/seungsang00/post/c10c1b5e-380a-4da3-8d1c-00dfbba5db74/phovis-mypage-profileimage.gif)
