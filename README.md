@@ -59,7 +59,7 @@
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16cfb92-7ad4-4ac2-963b-33d047721dc3/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041548Z&X-Amz-Expires=86400&X-Amz-Signature=e6cb5e0f0c312a259d6952d77a645ef3a18e9559a3e594c9de9186ae06686263&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
 
 - Phovis 마이페이지
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a9b1de1-35fb-4e6c-8c70-abb6bd656827/phovis-mypage-1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041917Z&X-Amz-Expires=86400&X-Amz-Signature=015f69830c50129596396307324bb54650873db7ebfa61074f18cfa24a53ac8b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22phovis-mypage-1.gif%22)
+![마이페이지](https://images.velog.io/images/seungsang00/post/c9a17e2d-9c7f-4013-88a5-f290200f9e3a/phovis-mypage-1.gif)
 
 - Phovis 회원 정보 수정(프로필 이미지 변경)
 ![프로필 이미지 변경](https://images.velog.io/images/seungsang00/post/c10c1b5e-380a-4da3-8d1c-00dfbba5db74/phovis-mypage-profileimage.gif)
