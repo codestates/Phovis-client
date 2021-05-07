@@ -43,13 +43,15 @@
 - Phovis 출사장소 추천 컨텐츠 작성 플로우
 
 - Phovis 키워드 검색 플로우
+![키워드 검색](https://images.velog.io/images/seungsang00/post/8a26fbc6-c809-4947-a900-9061f4a61043/phovis-search-keyword.gif)
+![태그 검색](https://images.velog.io/images/seungsang00/post/2d723c8b-1031-409e-895a-d1e963029f1b/phovis-search-tag.gif)
 
 - Phovis 컨텐츠 화면
 
 - Phovis 마이페이지
 
-- Phovis 회원 정보 수정(프로필 이미지 변경 / 비밀번호 변경)
-
+- Phovis 회원 정보 수정(프로필 이미지 변경)
+![프로필 이미지 변경](https://images.velog.io/images/seungsang00/post/c10c1b5e-380a-4da3-8d1c-00dfbba5db74/phovis-mypage-profileimage.gif)
 
 
 ## Member Information
