@@ -59,7 +59,7 @@
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16cfb92-7ad4-4ac2-963b-33d047721dc3/_.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T041548Z&X-Amz-Expires=86400&X-Amz-Signature=e6cb5e0f0c312a259d6952d77a645ef3a18e9559a3e594c9de9186ae06686263&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.gif%22)
 
 - Phovis 마이페이지
-![마이페이지](https://images.velog.io/images/seungsang00/post/7a7162be-66e0-4fe4-93f8-8097b712e453/phovis-mypage-1.gif)
+![](https://images.velog.io/images/seungsang00/post/7366de82-422f-4455-871d-3fedf67d535d/phovis-mypage-1.gif)
 
 - Phovis 회원 정보 수정(프로필 이미지 변경)
 ![프로필 이미지 변경](https://images.velog.io/images/seungsang00/post/c10c1b5e-380a-4da3-8d1c-00dfbba5db74/phovis-mypage-profileimage.gif)
